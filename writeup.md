@@ -57,19 +57,15 @@ Once I have linear equation, I need two point for each side to draw a line:
 Results of drawing raw lines:
 
 ![alt text][image1]
-![alt text][image2]
 ![alt text][image3]
-![alt text][image4]
 ![alt text][image5]
-![alt text][image6]
 ![alt text][image7]
-![alt text][image8]
 ![alt text][image9]
-![alt text][image10]
 ![alt text][image11]
-![alt text][image12]
+
 
 Results of drawing solid lines:
+
 ![alt text][image13]
 ![alt text][image14]
 ![alt text][image15]
