@@ -12,6 +12,7 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
+
 [image1]: ./test_images/solidWhiteCurve_raw_result.jpg
 [image2]: ./test_images/solidWhiteCurve.jpg
 [image3]: ./test_images/solidWhiteRight_raw_result.jpg
@@ -30,6 +31,7 @@ The goals / steps of this project are the following:
 [image16]: ./test_images/solidYellowCurve2_solid_result.jpg
 [image17]: ./test_images/solidYellowLeft_solid_result.jpg
 [image18]: ./test_images/whiteCarLaneSwitch_solid_result.jpg
+
 ---
 
 ### Reflection
