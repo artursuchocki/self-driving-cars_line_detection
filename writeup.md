@@ -12,7 +12,6 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-
 [image1]: ./test_images/solidWhiteCurve_raw_result.jpg
 [image2]: ./test_images/solidWhiteCurve.jpg
 [image3]: ./test_images/solidWhiteRight_raw_result.jpg
